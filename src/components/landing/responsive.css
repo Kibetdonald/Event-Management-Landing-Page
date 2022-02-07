@@ -1,0 +1,248 @@
+/* Width: 1440px */
+@media screen and (max-width: 1440px) {
+}
+/* width 1024*/
+@media screen and (max-width: 1280px) {
+  .section_one {
+    top: 47%;
+    left: 10%;
+    font-size: 1em;
+    line-height: 2rem;
+    width: 40%;
+    /* border-left: 4px solid #d1410c; */
+  }
+  .section_two {
+    width: 40%;
+    margin-top: 8%;
+  }
+}
+/* width 1024*/
+@media screen and (max-width: 1024px) {
+  .section_one {
+    top: 47%;
+    left: 10%;
+    font-size: 1em;
+    line-height: 2rem;
+    width: 40%;
+    /* border-left: 4px solid #d1410c; */
+  }
+  .section_two {
+    width: 40%;
+    margin-top: 8%;
+  }
+}
+@media screen and (max-width: 992px) {
+  .section_one {
+    top: 47%;
+    left: 10%;
+    font-size: 1em;
+    line-height: 2rem;
+    width: 40%;
+    /* border-left: 4px solid #d1410c; */
+  }
+  .section_two {
+    width: 40%;
+    margin-top: 8%;
+  }
+}
+
+/* width 720*/
+@media screen and (min-width: 720px) and (max-width: 979px) {
+  .section_one {
+    top: 47%;
+    left: 13%;
+    font-size: 0.9em;
+    line-height: 2rem;
+    width: 40%;
+    /* border-left: 4px solid #d1410c; */
+  }
+  .section_two {
+    width: 40%;
+    margin-top: 8%;
+  }
+  .btn-signin {
+    position: absolute;
+    top: 84%;
+    left: 13%;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+  }
+  .big-text {
+    left: 13%;
+    font-size: 2.5 rem;
+    top: 40%;
+  }
+}
+
+/* max-width 576*/
+@media screen and (min-width: 600px) and (max-width: 768px) {
+  .section_one {
+    top: 47%;
+    left: 13%;
+    font-size: 0.8em;
+    line-height: 2rem;
+    width: 42%;
+    /* border-left: 4px solid #d1410c; */
+  }
+  .section_two {
+    width: 40%;
+    margin-top: 12%;
+  }
+  .big-text {
+    left: 13%;
+    font-size: 2.5 rem;
+    top: 40%;
+  }
+  .vl {
+    height: 9em;
+    left: 10%;
+    top: 48%;
+  }
+  .btn-signin {
+    position: absolute;
+    top: 85%;
+    left: 13%;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+  }
+}
+
+/* max-width 576 and minimum of 480*/
+@media screen and (min-width: 480px) and (max-width: 600px) {
+  .section_two {
+    width: 0em;
+  }
+  .section_one {
+    top: 47%;
+    left: 15%;
+    font-size: 0.9em;
+    line-height: 2rem;
+    width: 70%;
+    /* border-left: 4px solid #d1410c; */
+  }
+  .vl {
+    height: 12em;
+    left: 10%;
+    top: 48%;
+  }
+  .big-text {
+    left: 15%;
+    font-size: 2.5 rem;
+    top: 40%;
+  }
+  .btn-signin {
+    top: 79%;
+    left: 15%;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .section_one {
+    top: 40%;
+    left: 15%;
+    font-size: 0.9em;
+    line-height: 2rem;
+    width: 80%;
+    /* border-left: 4px solid #d1410c; */
+  }
+  .section_two {
+    width: 0em;
+  }
+  .vl {
+    height: 12em;
+    left: 10%;
+    top: 42%;
+  }
+  .big-text {
+    left: 15%;
+    font-size: 2.5 rem;
+    top: 35%;
+  }
+  .btn-signin {
+    top: 79%;
+    left: 15%;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+  }
+}
+
+/* max-width 576 and minimum of 480*/
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  .section_two {
+    width: 0em;
+  }
+}
+
+/* width 320*/
+@media screen and (min-width: 240px) and (max-width: 320px) {
+    .section_one {
+        top: 40%;
+        left: 15%;
+        font-size: 0.8em;
+        line-height: 2rem;
+        width: 80%;
+        /* border-left: 4px solid #d1410c; */
+      }
+      .section_two {
+        width: 0em;
+      }
+      .vl {
+        height: 14em;
+        left: 10%;
+        top: 42%;
+      }
+      .big-text {
+        left: 15%;
+        font-size: 1.3em;
+        top: 35%;
+      }
+      .btn-signin {
+        top: 87.5%;
+        left: 15%;
+        width: 120px;
+        height: 40px;
+        font-size: 15px;
+      }
+}
+
+
+
+
+
+/* width 260*/
+@media screen and (min-width: 140px) and (max-width: 239px) {
+    .section_one {
+        top: 40%;
+        left: 15%;
+        font-size: 0.8em;
+        line-height: 2rem;
+        width: 80%;
+      
+      }
+      .section_two {
+        width: 0em;
+      }
+      .vl {
+        height: 14em;
+        left: 10%;
+        top: 42%;
+      }
+      .big-text {
+        left: 15%;
+        font-size: 0.9em;
+        top: 35%;
+      }
+      .btn-signin {
+        top: 85%;
+        left: 15%;
+        width: 120px;
+        height: 40px;
+        font-size: 15px;
+      }
+}

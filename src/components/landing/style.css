@@ -1,0 +1,50 @@
+.section_one{
+    position: absolute;
+    top: 47%;
+    left: 10%;  
+    font-size: 1.5 em;
+    color: #000;
+    line-height: 2rem;
+    width: 30%;
+    /* border-left: 4px solid #d1410c; */
+     
+  }
+  .vl {
+    border-left: 6px solid #d1410c;
+    height: 11em;
+    position: absolute;
+    left: 8.5%;
+    top: 48%;
+  }
+  .big-text{
+    position: absolute;
+    left: 10%;
+    font-size: 2.5 rem;
+    color: #000;
+    top: 40%;
+  }
+  
+  .btn-signin{
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    background-color: #d1410c;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    color: #fff;
+    border: 0px;
+    border-radius: 4px;
+    width: 120px;
+    height: 40px;
+  
+    font-size: 15px;
+    cursor: pointer;
+  }
+
+  .section_two{
+    position: absolute;
+    top: 35%;
+    left: 75%;
+    transform: translate(-50%, -30%);
+    width: 40%;
+  
+  }

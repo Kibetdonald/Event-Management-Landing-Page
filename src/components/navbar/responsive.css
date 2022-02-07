@@ -1,0 +1,136 @@
+/* Width: 1440px */
+@media screen and (max-width: 1440px) {
+}
+/* width 1024*/
+@media screen and (max-width: 1280px) {
+}
+/* width 1024*/
+@media screen and (max-width: 1024px) {
+
+}
+@media screen and (max-width: 992px) {
+  .wrapper .logo a{
+  
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 2.2em;
+    
+  }
+  .nav-links li a{
+    font-size: 12px;
+    font-weight: 500;
+    padding: 9px 15px;
+    
+  }
+}
+
+/* width 720*/
+@media screen and (min-width: 720px) and (max-width: 979px) {
+  .wrapper .logo a{
+  
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 2.2em;
+    
+  }
+  .nav-links li a{
+    font-size: 12px;
+    font-weight: 500;
+    padding: 9px 15px;
+    
+  }
+}
+
+/* max-width 576*/
+@media screen and (min-width: 576px) and (max-width: 768px) {
+  .wrapper .logo a{
+  
+    font-size: 26px;
+    font-weight: 600;
+    margin-left: 2.2em;
+    
+  }
+  
+}
+
+/* max-width 576 and minimum of 480*/
+@media screen and (min-width: 480px) and (max-width: 575px) 
+{
+    .section_two{
+        width: 0em;
+    }  
+    .section_one{
+        top: 47%;
+        left: 10%;  
+        font-size: 1.5 em;
+        line-height: 2rem;
+        width: 70%;
+        /* border-left: 4px solid #d1410c; */
+         
+      }
+      
+}
+
+@media screen and (max-width: 480px) 
+{
+    .section_two{
+        width: 0em;
+    }  
+    .section_one{
+        top: 47%;
+        left: 10%;  
+        font-size: 1.5 em;
+        line-height: 2rem;
+        width: 70%;
+        /* border-left: 4px solid #d1410c; */
+         
+      }
+      
+ 
+}
+
+/* max-width 576 and minimum of 480*/
+@media screen and (min-width: 320px) and (max-width: 479px) 
+{
+    .section_two{
+        width: 0em;
+    }
+    .section_one{
+        top: 47%;
+        left: 10%;  
+        font-size: 1.5 em;
+        line-height: 2rem;
+        width: 70%;
+        /* border-left: 4px solid #d1410c; */
+         
+      }  
+      
+}
+
+/* width 320*/
+@media screen and (min-width: 240px) and (max-width: 320px) 
+{
+    .section_one{
+        top: 47%;
+        left: 10%;  
+        font-size: 1.5 em;
+        line-height: 2rem;
+        width: 70%;
+        /* border-left: 4px solid #d1410c; */
+         
+      }
+}
+
+/* width 320*/
+@media screen and (max-width: 240px) 
+{
+    .section_one{
+        top: 47%;
+        left: 10%;  
+        font-size: 1.5 em;
+        line-height: 2rem;
+        width: 70%;
+        /* border-left: 4px solid #d1410c; */
+         
+      }
+}
